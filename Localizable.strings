@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  KumuApp
+
+  Created by Jyoti on 26/05/21.
+  
+*/
+"spin_limit" = "Please enter spin limit";
+"spin_item_name" = "Item name must only include letters, numbers and spaces & More than 16 characters are not allowed!";
+"spin_wheel_incomplete" = "Complete the spinwheel item setup before tapping done";
+"spin_wheel_balance" = "Not enough coins! TAP 'Coins' or go to my wallet to buy more";
+"spin_wheel_limit" = "Spin limit reached for this game";
